@@ -2,7 +2,7 @@
 ### PERFORM CROSS-VALIDATION FOR LSTM ON A HORIZON OF 20 #######################
 ################################################################################
 
-### Perform the cross-correlation analysis for the LSTM described in Section 4.3
+### Perform the cross-validation analysis for the LSTM described in Section 4.3
 ### of the paper
 
 # Load libraries 
@@ -130,4 +130,5 @@ save(residuals, file = paste0('cv_results/residuals/res_',
                               settings[i,]$fcast_win, '.RData'))
 
 Sys.info()
+
 gc()
