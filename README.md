@@ -1,6 +1,6 @@
 # Material Flow Composition Forecasting in the Returnable Bottle Sector
 
-This repository supplements the code to the paper *Material Flow Composition Forecasting in the Returnable Bottle Sector* available at TBA.
+This repository supplements the code to the paper *Material Flow Composition Forecasting in the Returnable Bottle Sector* available at https://repo.uni-hannover.de/items/f3c2c2d9-2655-4fe2-b578-d1cb08a3a9cf.
 
 ### Structure
 
